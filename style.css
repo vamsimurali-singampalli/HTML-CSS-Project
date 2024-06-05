@@ -141,7 +141,7 @@ ul li a:hover,
 /* Start Main Menu */
 
 #header-area {
-  background: url(../img/bg-1.jpg) no-repeat;
+  background: url(./img/bg-1.jpg) no-repeat;
   background-size: cover;
   background-position: bottom;
   background-attachment: fixed;
@@ -294,7 +294,7 @@ ul li a:hover,
 
 #services-area {
   padding: 65px 0px 85px;
-  background-image: url(../img/bg-2.jpg);
+  background-image: url(./img/bg-2.jpg);
   background-position: center;
   background-size: 100% 100%;
   background-attachment: fixed;
@@ -386,7 +386,7 @@ h2 {
 
 #contact-area::before {
   content: '';
-  background-image: url(../img/bg-3.jpg);
+  background-image: url(./img/bg-3.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
